@@ -32,3 +32,13 @@ JavaScript (Vanilla) – Logic and interactivity
 
 Output
 
+![Image](https://github.com/user-attachments/assets/bdc087cc-9124-47ed-9ac7-f8c42be7f3bb)
+
+![Image](https://github.com/user-attachments/assets/5eab34ba-5a2a-4518-a917-c86520eabe05)
+
+![Image](https://github.com/user-attachments/assets/dc2c26ea-a270-4802-a10d-77c02f979282)
+
+![Image](https://github.com/user-attachments/assets/16b1bf3c-cca3-455a-b615-648beb8eff40)
+
+
+
